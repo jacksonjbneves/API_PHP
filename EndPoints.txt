@@ -1,0 +1,8 @@
+
+http://localhost/API_PHP/index.php
+
+o	GET - http://localhost/API_PHP/index.php/pessoas: Lista todas as pessoas.
+o	GET - http://localhost/API_PHP/index.php/pessoa?id=1: Busca uma pessoa por ID use isso no Body.
+o	POST - http://localhost/API_PHP/index.php/pessoa: Adiciona uma nova pessoa.
+o	PUT - http://localhost/API_PHP/index.php/pessoa?id=1: Atualiza uma pessoa existente.
+o	DELETE - http://localhost/API_PHP/index.php/pessoa?id=1: Deleta uma pessoa.
